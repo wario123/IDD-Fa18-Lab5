@@ -4,6 +4,8 @@
 
 **a. Include a photo of your printed part here.**
 
+![alt tag](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/IMG_7452.jpg)
+
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
 
 ## Laser Cutting
