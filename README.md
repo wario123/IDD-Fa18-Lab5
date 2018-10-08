@@ -14,6 +14,8 @@
 
 **b. Include a photo of your box here.**
 
+![alt tag](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/IMG_7453.jpg)
+
 ## Electronics
 
 **c. Upload code & a photo of your electronic circuit here.**
