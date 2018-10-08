@@ -8,7 +8,7 @@
 
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
 
-![alt tag](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/HXT900Mount.stl)
+[Link to .stl file](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/HXT900Mount.stl)
 
 ## Laser Cutting
 
