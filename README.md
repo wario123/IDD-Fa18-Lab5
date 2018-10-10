@@ -26,6 +26,10 @@
 
 ## Putting it All Together
 
+#### Explanations
+
+The servo motor was hot glued to the top of the box where the switch is. Additionally, the bopper arm was hot glued to the servo arm as well as screwed to ensure that the force would not move the arm out of place. Since the bopper was not long enough to fully switch off the box, two additional pennies were hot glued to the end of the arm.
+
 [Link to Video!](https://www.youtube.com/watch?v=wnKFT_CZDQ4&feature=youtu.be)
 
 [Link to Code!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/Bopper_code.ino)
