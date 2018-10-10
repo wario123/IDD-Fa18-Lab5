@@ -22,6 +22,8 @@
 
 [Link to Code!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/Bopper_code.ino)
 
+![alt tag](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/IMG_7465.jpg)
+
 ## Putting it All Together
 
 [Link to Video!](https://www.youtube.com/watch?v=wnKFT_CZDQ4&feature=youtu.be)
