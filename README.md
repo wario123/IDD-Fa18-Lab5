@@ -30,8 +30,8 @@
 
 [Link to Code!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/Bopper_code.ino)
 
-[Link to svg file!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/blopper1_prototype1svg.svg)
-Here is the shape of the bopper
+[Link to svg file!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/blopper1_prototype1svg.svg)<br>
+Here is the shape of the bopper that was laser cut: <br>
 <img src="https://github.com/wario123/IDD-Fa18-Lab5/blob/master/Screen%20Shot%202018-10-10%20at%206.30.13%20PM.png" alt=""  width="200" height="200" />
 
 My artsy useless box:
