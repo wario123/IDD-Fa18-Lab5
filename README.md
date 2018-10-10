@@ -20,6 +20,8 @@
 
 **c. Upload code & a photo of your electronic circuit here.**
 
+[Link to Code!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/Bopper_code.ino)
+
 ## Putting it All Together
 
 [Link to Video!](https://www.youtube.com/watch?v=wnKFT_CZDQ4&feature=youtu.be)
