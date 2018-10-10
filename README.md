@@ -22,8 +22,12 @@
 
 ## Putting it All Together
 
+[Link to Video!](https://www.youtube.com/watch?v=wnKFT_CZDQ4&feature=youtu.be)
+
+
 Include here:
 1. Your Arduino code.
 1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
 1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
 1. A video of your useless box in action.
+
