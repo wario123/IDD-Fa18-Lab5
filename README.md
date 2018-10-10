@@ -28,11 +28,10 @@
 
 [Link to Code!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/Bopper_code.ino)
 
-[Link to svg file!]
+[Link to svg file!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/blopper1_prototype1svg.svg)
 
 My artsy useless box:
 ![alt tag](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/IMG_7464.jpg)
 
-1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
 
 
