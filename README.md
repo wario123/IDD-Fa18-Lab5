@@ -28,10 +28,9 @@
 
 [Link to svg file!]
 
-![alt tag]()
-Include here:
-1. Your Arduino code.
+My artsy useless box:
+![alt tag](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/IMG_7464.jpg)
+
 1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
-1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-1. A video of your useless box in action.
+
 
