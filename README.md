@@ -24,7 +24,11 @@
 
 [Link to Video!](https://www.youtube.com/watch?v=wnKFT_CZDQ4&feature=youtu.be)
 
+[Link to Code!](https://github.com/wario123/IDD-Fa18-Lab5/blob/master/Bopper_code.ino)
 
+[Link to svg file!]
+
+![alt tag]()
 Include here:
 1. Your Arduino code.
 1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
